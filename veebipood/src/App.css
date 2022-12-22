@@ -1,0 +1,19 @@
+.pilt {
+  width: 200px;
+}
+.pilt:hover {
+  opacity: 0.7;
+} 
+.nupp {
+  cursor: pointer;
+}
+
+.aktiivne {
+  border: 1px solid green;
+  background-color: aqua;
+}
+
+.mitteaktiivne {
+  border: 1px solid red;
+  background-color: brown;
+}
